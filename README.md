@@ -1,6 +1,6 @@
 # HyperOS Ultimate Overhaul – Redmi Tab Pro
 
-**Author:** Tomáš  
+**Author:** Tom Horvath @Heyxtomas aka TomHorvathCZ 
 **Date:** 2025-08-31  
 **Device:** Redmi Tab Pro (HyperOS, A15)  
 **Purpose:** Full HyperOS overhaul – speed, multitasking, snappy internet, clean system without bloatware.
