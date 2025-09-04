@@ -44,12 +44,22 @@ The scripts **do not require root** and are meant to maximize performance, multi
 
 ---
 
-## Usage Instructions
+## Usage Instructions Linux
 
 1. Connect your **Redmi Tab Pro via USB** and enable **ADB debugging**.  
 2. Run the scripts as needed:  
    - `OverhaulBoost.sh` → apply full overhaul  
    - `OverhaulReset.sh` → reset to HyperOS default  
+3. Restart the tablet (optional but recommended) for full effect.
+---
+
+## Usage Instructions Windows
+
+1. Connect your **Redmi Tab Pro via USB** and enable **ADB debugging**.
+(Install ADB on computer)  
+2. Run the scripts as needed:  
+   - `OverhaulBoost.bat` → apply full overhaul  
+   - `OverhaulReset.bat` → reset to HyperOS default  
 3. Restart the tablet (optional but recommended) for full effect.
 
 ---
